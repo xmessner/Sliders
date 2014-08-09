@@ -6,7 +6,7 @@ A pong like game with a retro style made in Pharo.
 The game will have
 
 - Good graphics 
-- Up to 4 players. 2 playing with sliders and 2 to help their friend
+- Up to 4 players. 2 playing with sliders and 2 to help their friends
 - Networking
 - Sampled sounds ingame
 - FM music

@@ -13,3 +13,5 @@ The game will have
 - A book made with pillar to show how the game has been made
 
 This game will be release .... when it will be finished :) it depends on my spare time and many other things.
+
+First of all, sorry for non french people, the book will be first released in french and then in english.
